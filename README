@@ -1,0 +1,16 @@
+So many shitty coders. Adobe, Blizzard, Valve I am looking at you. This is a case insensitive emulator.
+
+== Diablo III == 
+* you have to be fucking kidding me, it doesn't work cause you couldn't agree on MPQ capitalization
+* game runs fine once installed, but Agent always must load with this
+* i want 10 hours of my life back
+
+== Log From Diablo III Install==
+stat: /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.mpq -> /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.MPQ
+stat: /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.mpq -> /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.MPQ
+stat: /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.mpq -> /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.MPQ
+open$UNIX2003: /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.mpq -> /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.MPQ
+open$UNIX2003: /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.mpq -> /Users/geohot/Downloads/Diablo III Setup.app/Contents/Resources/Installer Tome 1.MPQ
+stat: /Applications/Diablo III/Data_D3/PC/MPQs/enUS_Text.MPQ -> /Applications/Diablo III/Data_D3/PC/MPQs/enUS_Text.mpq
+stat: /Applications/Diablo III/Data_D3/PC/MPQs/enUS_Audio.MPQ -> /Applications/Diablo III/Data_D3/PC/MPQs/enUS_Audio.mpq
+
